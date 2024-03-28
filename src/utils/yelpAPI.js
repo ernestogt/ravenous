@@ -1,7 +1,4 @@
-const apiKey = "u6IpEL-Zr5B7nyQMcTrPHl-AVJOyz9gHR3oUG9cMfaqSxY10awDq4WbakW6MQHvDUF2a4sa75TfuboUuDViYEEjxnXTb7Nz5C-LfM9HZBFrJHIOr79LwebiAJgbdZXYx";
-const location = "San Francisco";
-const term = "restaurant";
-const sortBy = "best_match";
+const apiKey = "your api key";
 
 const Yelp = {
     async getData(location, term, sortBy) {
